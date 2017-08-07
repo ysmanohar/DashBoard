@@ -1,0 +1,6 @@
+{
+  "name": "polymer-dashboard",
+  "short_name": "polymer-dashboard",
+  "start_url": "/",
+  "display": "standalone"
+}
